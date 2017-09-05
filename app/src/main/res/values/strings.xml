@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileDataCommunications_T2_Call</string>
+    <string name="str_phonenumber">Phone number:</string>
+    <string name="str_call">Call</string>
+</resources>
